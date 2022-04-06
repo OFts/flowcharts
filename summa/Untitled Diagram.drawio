@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-04-06T19:58:39.716Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.84 Safari/537.36" etag="fOKVKyvGw3gYfmubkAeY" version="17.4.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-04-06T20:42:54.222Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.84 Safari/537.36" etag="0O60UOTWrA7UvUl1ojbi" version="17.4.0" type="github">
   <diagram id="z8fUBfOabGOkTEecKIYW" name="Leasing">
-    <mxGraphModel dx="1304" dy="612" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#F4F1DE" math="0" shadow="0">
+    <mxGraphModel dx="868" dy="554" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#F4F1DE" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -43,50 +43,50 @@
         <mxCell id="_oelreiNcYr4ekF7kroy-16" value="Análisis AE" style="whiteSpace=wrap;html=1;fillColor=#F2CC8F;strokeColor=#E07A5F;fontColor=#393C56;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="220" y="540" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="_oelreiNcYr4ekF7kroy-21" value="" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=#F4F1DE;strokeColor=#E07A5F;fontColor=#393C56;rounded=1;" edge="1" parent="1" source="_oelreiNcYr4ekF7kroy-18" target="_oelreiNcYr4ekF7kroy-20">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="_oelreiNcYr4ekF7kroy-21" value="" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=#F4F1DE;strokeColor=#E07A5F;fontColor=#393C56;rounded=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="_oelreiNcYr4ekF7kroy-18" target="_oelreiNcYr4ekF7kroy-110">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="280" y="740" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
-        <mxCell id="_oelreiNcYr4ekF7kroy-18" value="Prealco" style="whiteSpace=wrap;html=1;fillColor=#F2CC8F;strokeColor=#E07A5F;fontColor=#393C56;rounded=1;" vertex="1" parent="1">
+        <mxCell id="_oelreiNcYr4ekF7kroy-18" value="Pre-comité de activos y pasivos (Prealco)" style="whiteSpace=wrap;html=1;fillColor=#F2CC8F;strokeColor=#E07A5F;fontColor=#393C56;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="220" y="640" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="_oelreiNcYr4ekF7kroy-23" value="" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=#F4F1DE;strokeColor=#E07A5F;fontColor=#393C56;rounded=1;" edge="1" parent="1" source="_oelreiNcYr4ekF7kroy-20" target="_oelreiNcYr4ekF7kroy-22">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="_oelreiNcYr4ekF7kroy-38" value="Denegado" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=#F4F1DE;strokeColor=#E07A5F;fontColor=#393C56;rounded=1;" edge="1" parent="1" source="_oelreiNcYr4ekF7kroy-20" target="_oelreiNcYr4ekF7kroy-37">
+        <mxCell id="_oelreiNcYr4ekF7kroy-23" value="" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=#F4F1DE;strokeColor=#E07A5F;fontColor=#393C56;rounded=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="_oelreiNcYr4ekF7kroy-110" target="_oelreiNcYr4ekF7kroy-22">
           <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="390" y="770" />
-              <mxPoint x="390" y="770" />
-            </Array>
+            <mxPoint x="280" y="800" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_oelreiNcYr4ekF7kroy-38" value="Denegado" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=#F4F1DE;strokeColor=#E07A5F;fontColor=#393C56;rounded=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="_oelreiNcYr4ekF7kroy-110" target="_oelreiNcYr4ekF7kroy-37">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="340" y="770" as="sourcePoint" />
+            <Array as="points" />
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="_oelreiNcYr4ekF7kroy-45" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontColor=#393C56;strokeColor=#E07A5F;fillColor=#F2CC8F;" edge="1" parent="1" source="_oelreiNcYr4ekF7kroy-20" target="_oelreiNcYr4ekF7kroy-43">
+        <mxCell id="_oelreiNcYr4ekF7kroy-45" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontColor=#393C56;strokeColor=#E07A5F;fillColor=#F2CC8F;" edge="1" parent="1" source="_oelreiNcYr4ekF7kroy-110" target="_oelreiNcYr4ekF7kroy-43">
           <mxGeometry relative="1" as="geometry">
+            <mxPoint x="280" y="800" as="sourcePoint" />
             <Array as="points">
-              <mxPoint x="280" y="820" />
-              <mxPoint x="740" y="820" />
+              <mxPoint x="280" y="830" />
+              <mxPoint x="740" y="830" />
             </Array>
           </mxGeometry>
-        </mxCell>
-        <mxCell id="_oelreiNcYr4ekF7kroy-20" value="Alco" style="whiteSpace=wrap;html=1;fillColor=#F2CC8F;strokeColor=#E07A5F;fontColor=#393C56;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="220" y="740" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="_oelreiNcYr4ekF7kroy-25" value="Aprobado" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=#F4F1DE;strokeColor=#E07A5F;fontColor=#393C56;rounded=1;" edge="1" parent="1" source="_oelreiNcYr4ekF7kroy-22" target="_oelreiNcYr4ekF7kroy-24">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="_oelreiNcYr4ekF7kroy-22" value="Documentación y notificación a arrendadora" style="whiteSpace=wrap;html=1;fillColor=#F2CC8F;strokeColor=#E07A5F;fontColor=#393C56;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="220" y="840" width="120" height="60" as="geometry" />
+          <mxGeometry x="220" y="850" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="_oelreiNcYr4ekF7kroy-35" value="Información completa" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=#F4F1DE;strokeColor=#E07A5F;fontColor=#393C56;rounded=1;" edge="1" parent="1" source="_oelreiNcYr4ekF7kroy-24" target="_oelreiNcYr4ekF7kroy-34">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="_oelreiNcYr4ekF7kroy-36" value="Información incompleta" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;labelBackgroundColor=#F4F1DE;strokeColor=#E07A5F;fontColor=#393C56;rounded=1;" edge="1" parent="1" source="_oelreiNcYr4ekF7kroy-24" target="_oelreiNcYr4ekF7kroy-22">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="150" y="870" as="targetPoint" />
+            <mxPoint x="149" y="880" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="150" y="990" />
-              <mxPoint x="150" y="870" />
+              <mxPoint x="149" y="1000" />
+              <mxPoint x="149" y="880" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -94,7 +94,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="_oelreiNcYr4ekF7kroy-24" value="Verificación de documentación" style="whiteSpace=wrap;html=1;fillColor=#F2CC8F;strokeColor=#E07A5F;fontColor=#393C56;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="220" y="960" width="120" height="60" as="geometry" />
+          <mxGeometry x="219" y="970" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="_oelreiNcYr4ekF7kroy-33" value="" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=#F4F1DE;strokeColor=#E07A5F;fontColor=#393C56;rounded=1;" edge="1" parent="1" source="_oelreiNcYr4ekF7kroy-32" target="_oelreiNcYr4ekF7kroy-1">
           <mxGeometry relative="1" as="geometry" />
@@ -109,52 +109,52 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="_oelreiNcYr4ekF7kroy-34" value="Envío de documentación para desembolso" style="whiteSpace=wrap;html=1;fillColor=#F2CC8F;strokeColor=#E07A5F;fontColor=#393C56;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="220" y="1090" width="120" height="60" as="geometry" />
+          <mxGeometry x="219" y="1100" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="_oelreiNcYr4ekF7kroy-37" value="Ejecutiva notifica a la arrendadora la resolución" style="whiteSpace=wrap;html=1;fillColor=#F2CC8F;strokeColor=#E07A5F;fontColor=#393C56;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="450" y="740" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="_oelreiNcYr4ekF7kroy-39" value="Elaboración de carta por parte del cliente" style="whiteSpace=wrap;html=1;fillColor=#F2CC8F;strokeColor=#E07A5F;fontColor=#393C56;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="530" y="960" width="120" height="60" as="geometry" />
+          <mxGeometry x="529" y="970" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="_oelreiNcYr4ekF7kroy-54" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontColor=#393C56;strokeColor=#E07A5F;fillColor=#F2CC8F;" edge="1" parent="1" source="_oelreiNcYr4ekF7kroy-41" target="_oelreiNcYr4ekF7kroy-52">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="90" y="1520" />
+              <mxPoint x="89" y="1530" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="_oelreiNcYr4ekF7kroy-41" value="Tabla de valor presente, póliza y contrato de arrendamiento" style="whiteSpace=wrap;html=1;fillColor=#F2CC8F;strokeColor=#E07A5F;fontColor=#393C56;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="30" y="1090" width="120" height="60" as="geometry" />
+          <mxGeometry x="29" y="1100" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="_oelreiNcYr4ekF7kroy-107" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontColor=#393C56;strokeColor=#E07A5F;fillColor=#F2CC8F;" edge="1" parent="1" source="_oelreiNcYr4ekF7kroy-43" target="_oelreiNcYr4ekF7kroy-46">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="740" y="1170" />
-              <mxPoint x="280" y="1170" />
+              <mxPoint x="739" y="1180" />
+              <mxPoint x="279" y="1180" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="_oelreiNcYr4ekF7kroy-43" value="Grabar RUR" style="rounded=1;whiteSpace=wrap;html=1;sketch=0;fontColor=#393C56;strokeColor=#E07A5F;fillColor=#F2CC8F;" vertex="1" parent="1">
-          <mxGeometry x="680" y="960" width="120" height="60" as="geometry" />
+          <mxGeometry x="679" y="970" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="_oelreiNcYr4ekF7kroy-49" value="" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#393C56;strokeColor=#E07A5F;fillColor=#F2CC8F;" edge="1" parent="1" source="_oelreiNcYr4ekF7kroy-46" target="_oelreiNcYr4ekF7kroy-48">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="_oelreiNcYr4ekF7kroy-46" value="Riesgos ingresa números" style="whiteSpace=wrap;html=1;fillColor=#F2CC8F;strokeColor=#E07A5F;fontColor=#393C56;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="220" y="1190" width="120" height="60" as="geometry" />
+          <mxGeometry x="219" y="1200" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="_oelreiNcYr4ekF7kroy-51" value="" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#393C56;strokeColor=#E07A5F;fillColor=#F2CC8F;" edge="1" parent="1" source="_oelreiNcYr4ekF7kroy-48" target="_oelreiNcYr4ekF7kroy-50">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="_oelreiNcYr4ekF7kroy-48" value="Legal realiza contrato de factoraje (Summa-Arrendadora)" style="whiteSpace=wrap;html=1;fillColor=#F2CC8F;strokeColor=#E07A5F;fontColor=#393C56;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="220" y="1290" width="120" height="60" as="geometry" />
+          <mxGeometry x="219" y="1300" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="_oelreiNcYr4ekF7kroy-53" value="" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#393C56;strokeColor=#E07A5F;fillColor=#F2CC8F;" edge="1" parent="1" source="_oelreiNcYr4ekF7kroy-50" target="_oelreiNcYr4ekF7kroy-52">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="_oelreiNcYr4ekF7kroy-50" value="Firmas y timbres" style="whiteSpace=wrap;html=1;fillColor=#F2CC8F;strokeColor=#E07A5F;fontColor=#393C56;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="220" y="1390" width="120" height="60" as="geometry" />
+          <mxGeometry x="219" y="1400" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="_oelreiNcYr4ekF7kroy-56" value="" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#393C56;strokeColor=#E07A5F;fillColor=#F2CC8F;" edge="1" parent="1" source="_oelreiNcYr4ekF7kroy-52" target="_oelreiNcYr4ekF7kroy-55">
           <mxGeometry relative="1" as="geometry" />
@@ -163,43 +163,43 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="_oelreiNcYr4ekF7kroy-52" value="Ejecutiva graba movimientos" style="whiteSpace=wrap;html=1;fillColor=#F2CC8F;strokeColor=#E07A5F;fontColor=#393C56;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="220" y="1490" width="120" height="60" as="geometry" />
+          <mxGeometry x="219" y="1500" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="_oelreiNcYr4ekF7kroy-61" value="" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#393C56;strokeColor=#E07A5F;fillColor=#F2CC8F;" edge="1" parent="1" source="_oelreiNcYr4ekF7kroy-55" target="_oelreiNcYr4ekF7kroy-60">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="_oelreiNcYr4ekF7kroy-55" value="Desembolso" style="whiteSpace=wrap;html=1;fillColor=#F2CC8F;strokeColor=#E07A5F;fontColor=#393C56;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="140" y="1590" width="120" height="60" as="geometry" />
+          <mxGeometry x="139" y="1600" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="_oelreiNcYr4ekF7kroy-62" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#393C56;strokeColor=#E07A5F;fillColor=#F2CC8F;" edge="1" parent="1" source="_oelreiNcYr4ekF7kroy-57" target="_oelreiNcYr4ekF7kroy-60">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="_oelreiNcYr4ekF7kroy-57" value="Cartera ajena (seguro)" style="whiteSpace=wrap;html=1;fillColor=#F2CC8F;strokeColor=#E07A5F;fontColor=#393C56;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="300" y="1590" width="120" height="60" as="geometry" />
+          <mxGeometry x="299" y="1600" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="_oelreiNcYr4ekF7kroy-64" value="" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#393C56;strokeColor=#82b366;fillColor=#d5e8d4;" edge="1" parent="1" source="_oelreiNcYr4ekF7kroy-60" target="_oelreiNcYr4ekF7kroy-63">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="_oelreiNcYr4ekF7kroy-60" value="1ra. Aprobación:&lt;br&gt;riesgos / legal" style="whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="220" y="1690" width="120" height="60" as="geometry" />
+          <mxGeometry x="219" y="1700" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="_oelreiNcYr4ekF7kroy-66" value="" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#393C56;strokeColor=#E07A5F;fillColor=#F2CC8F;" edge="1" parent="1" source="_oelreiNcYr4ekF7kroy-63" target="_oelreiNcYr4ekF7kroy-65">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="_oelreiNcYr4ekF7kroy-63" value="2da. Aprobación:&lt;br&gt;legal y/o Maribel" style="whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="220" y="1790" width="120" height="60" as="geometry" />
+          <mxGeometry x="219" y="1800" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="_oelreiNcYr4ekF7kroy-68" value="" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#393C56;strokeColor=#E07A5F;fillColor=#F2CC8F;" edge="1" parent="1" source="_oelreiNcYr4ekF7kroy-65" target="_oelreiNcYr4ekF7kroy-67">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="_oelreiNcYr4ekF7kroy-65" value="Legal realiza la resolución" style="whiteSpace=wrap;html=1;fillColor=#F2CC8F;strokeColor=#E07A5F;fontColor=#393C56;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="220" y="1890" width="120" height="60" as="geometry" />
+          <mxGeometry x="219" y="1900" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="_oelreiNcYr4ekF7kroy-70" value="" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#393C56;strokeColor=#E07A5F;fillColor=#F2CC8F;" edge="1" parent="1" source="_oelreiNcYr4ekF7kroy-67" target="_oelreiNcYr4ekF7kroy-69">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="_oelreiNcYr4ekF7kroy-67" value="Ejecutiva imprime resolución" style="whiteSpace=wrap;html=1;fillColor=#F2CC8F;strokeColor=#E07A5F;fontColor=#393C56;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="220" y="1990" width="120" height="60" as="geometry" />
+          <mxGeometry x="219" y="2000" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="_oelreiNcYr4ekF7kroy-74" value="correcciones&lt;br&gt;necesarias" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#393C56;strokeColor=#E07A5F;fillColor=#F2CC8F;" edge="1" parent="1" source="_oelreiNcYr4ekF7kroy-69" target="_oelreiNcYr4ekF7kroy-73">
           <mxGeometry relative="1" as="geometry" />
@@ -208,25 +208,25 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="_oelreiNcYr4ekF7kroy-69" value="Traslado a cartera / operaciones" style="whiteSpace=wrap;html=1;fillColor=#F2CC8F;strokeColor=#E07A5F;fontColor=#393C56;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="220" y="2090" width="120" height="60" as="geometry" />
+          <mxGeometry x="219" y="2100" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="_oelreiNcYr4ekF7kroy-75" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontColor=#393C56;strokeColor=#E07A5F;fillColor=#F2CC8F;" edge="1" parent="1" source="_oelreiNcYr4ekF7kroy-73" target="_oelreiNcYr4ekF7kroy-67">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="_oelreiNcYr4ekF7kroy-73" value="Ejecutiva realiza gestiona cambios" style="whiteSpace=wrap;html=1;fillColor=#F2CC8F;strokeColor=#E07A5F;fontColor=#393C56;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="420" y="1990" width="120" height="60" as="geometry" />
+          <mxGeometry x="419" y="2000" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="_oelreiNcYr4ekF7kroy-80" value="" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#393C56;strokeColor=#E07A5F;fillColor=#F2CC8F;" edge="1" parent="1" source="_oelreiNcYr4ekF7kroy-77" target="_oelreiNcYr4ekF7kroy-79">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="_oelreiNcYr4ekF7kroy-77" value="Traslado de indicaciones a pagos" style="whiteSpace=wrap;html=1;fillColor=#F2CC8F;strokeColor=#E07A5F;fontColor=#393C56;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="220" y="2220" width="120" height="60" as="geometry" />
+          <mxGeometry x="219" y="2230" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="_oelreiNcYr4ekF7kroy-82" value="" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#393C56;strokeColor=#82b366;fillColor=#d5e8d4;" edge="1" parent="1" source="_oelreiNcYr4ekF7kroy-79" target="_oelreiNcYr4ekF7kroy-81">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="_oelreiNcYr4ekF7kroy-79" value="1ra. Aprobación:&lt;br&gt;Jorge o Maribel" style="whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="220" y="2320" width="120" height="60" as="geometry" />
+          <mxGeometry x="219" y="2330" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="_oelreiNcYr4ekF7kroy-84" value="" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#393C56;strokeColor=#E07A5F;fillColor=#F2CC8F;" edge="1" parent="1" source="_oelreiNcYr4ekF7kroy-81" target="_oelreiNcYr4ekF7kroy-83">
           <mxGeometry relative="1" as="geometry" />
@@ -238,31 +238,31 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="_oelreiNcYr4ekF7kroy-81" value="2da. Aprobación:&lt;br&gt;María O. o Elder" style="whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="220" y="2420" width="120" height="60" as="geometry" />
+          <mxGeometry x="219" y="2430" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="_oelreiNcYr4ekF7kroy-88" value="" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#393C56;strokeColor=#E07A5F;fillColor=#F2CC8F;" edge="1" parent="1" source="_oelreiNcYr4ekF7kroy-83" target="_oelreiNcYr4ekF7kroy-87">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="_oelreiNcYr4ekF7kroy-83" value="ACH a arrendadora" style="whiteSpace=wrap;html=1;fillColor=#F2CC8F;strokeColor=#E07A5F;fontColor=#393C56;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="140" y="2520" width="120" height="60" as="geometry" />
+          <mxGeometry x="139" y="2530" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="_oelreiNcYr4ekF7kroy-89" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontColor=#393C56;strokeColor=#E07A5F;fillColor=#F2CC8F;" edge="1" parent="1" source="_oelreiNcYr4ekF7kroy-85" target="_oelreiNcYr4ekF7kroy-87">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="_oelreiNcYr4ekF7kroy-85" value="Emisión de cheque a favor de arrendadora" style="whiteSpace=wrap;html=1;fillColor=#F2CC8F;strokeColor=#E07A5F;fontColor=#393C56;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="300" y="2520" width="120" height="60" as="geometry" />
+          <mxGeometry x="299" y="2530" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="_oelreiNcYr4ekF7kroy-91" value="" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#393C56;strokeColor=#E07A5F;fillColor=#F2CC8F;" edge="1" parent="1" source="_oelreiNcYr4ekF7kroy-87" target="_oelreiNcYr4ekF7kroy-90">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="_oelreiNcYr4ekF7kroy-87" value="Cobros" style="whiteSpace=wrap;html=1;fillColor=#F2CC8F;strokeColor=#E07A5F;fontColor=#393C56;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="220" y="2620" width="120" height="60" as="geometry" />
+          <mxGeometry x="219" y="2630" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="_oelreiNcYr4ekF7kroy-92" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontColor=#393C56;strokeColor=#E07A5F;fillColor=#F2CC8F;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="_oelreiNcYr4ekF7kroy-90" target="_oelreiNcYr4ekF7kroy-87">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="340" y="2750" as="sourcePoint" />
+            <mxPoint x="339" y="2760" as="sourcePoint" />
             <Array as="points">
-              <mxPoint x="400" y="2650" />
+              <mxPoint x="399" y="2660" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -270,28 +270,31 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="_oelreiNcYr4ekF7kroy-90" value="Correo a cliente CC a arrendadora" style="whiteSpace=wrap;html=1;fillColor=#F2CC8F;strokeColor=#E07A5F;fontColor=#393C56;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="220" y="2720" width="120" height="60" as="geometry" />
+          <mxGeometry x="219" y="2730" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="_oelreiNcYr4ekF7kroy-106" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;fontColor=#393C56;strokeColor=#E07A5F;fillColor=#F2CC8F;" edge="1" parent="1" source="_oelreiNcYr4ekF7kroy-93" target="_oelreiNcYr4ekF7kroy-105">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="_oelreiNcYr4ekF7kroy-93" value="Cancelación de opción de compra" style="whiteSpace=wrap;html=1;fillColor=#F2CC8F;strokeColor=#E07A5F;fontColor=#393C56;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="220" y="2820" width="120" height="60" as="geometry" />
+          <mxGeometry x="219" y="2830" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="_oelreiNcYr4ekF7kroy-95" value="" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;rounded=1;sketch=0;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="160" y="2320" width="50" height="160" as="geometry" />
+          <mxGeometry x="159" y="2330" width="50" height="160" as="geometry" />
         </mxCell>
         <mxCell id="_oelreiNcYr4ekF7kroy-101" value="Proceso que se podría realizar en paralelo" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;sketch=0;fontColor=#393C56;" vertex="1" parent="1">
-          <mxGeometry x="40" y="2372.5" width="120" height="55" as="geometry" />
+          <mxGeometry x="39" y="2382.5" width="120" height="55" as="geometry" />
         </mxCell>
         <mxCell id="_oelreiNcYr4ekF7kroy-103" value="" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;rounded=1;sketch=0;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="160" y="1690" width="50" height="160" as="geometry" />
+          <mxGeometry x="159" y="1700" width="50" height="160" as="geometry" />
         </mxCell>
         <mxCell id="_oelreiNcYr4ekF7kroy-104" value="Proceso que se podría realizar en paralelo" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;sketch=0;fontColor=#393C56;" vertex="1" parent="1">
-          <mxGeometry x="40" y="1742.5" width="120" height="55" as="geometry" />
+          <mxGeometry x="39" y="1752.5" width="120" height="55" as="geometry" />
         </mxCell>
         <mxCell id="_oelreiNcYr4ekF7kroy-105" value="Finalización de la operación" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;rounded=1;sketch=0;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
-          <mxGeometry x="230" y="2910" width="100" height="60" as="geometry" />
+          <mxGeometry x="229" y="2920" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_oelreiNcYr4ekF7kroy-110" value="Comité de activos &lt;br&gt;y pasivos (Alco)" style="rhombus;whiteSpace=wrap;html=1;sketch=0;strokeColor=#7E8C9A;fillColor=#AFC4DA;" vertex="1" parent="1">
+          <mxGeometry x="210" y="730" width="140" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
