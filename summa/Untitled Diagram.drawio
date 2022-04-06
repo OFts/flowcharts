@@ -1,1 +1,49 @@
-<mxfile host="app.diagrams.net" modified="2022-04-05T01:44:50.814Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.84 Safari/537.36" etag="MHAf3KZCY12nBYmOmV7W" version="17.4.0" type="github"><diagram id="z8fUBfOabGOkTEecKIYW" name="Page-1">xVXBbtswDP0aHzvYVpym16XpUmADBgTY1tOgxpytQTY9Ra7tff3kiIqsGsmaUy+B+MRHkY+kE7F11X9SvCm/YA4ySuO8j9h9lKar5cr8jsBggSyNLVAokVso8cBO/AUCnVsrcjgEjhpRatGE4B7rGvY6wLhS2IVuv1CGrza8gBmw23M5R7+LXJdUVnrr8S2IonQvJ8s7e1Nx50yVHEqeYzeB2CZia4Wo7anq1yBH7Zwulvdw5vaUmIJav4lws/35/PiH8RWXmVRbDd8eb1LKTQ+uYMhN/WSi0iUWWHO58ehHhW2dwxg1Npb3+YzYGDAx4G/QeqBm8lajgUpdSbo1Cavhx8j/kDnzicIdjfs+sAZn9UJPaMZ6chHN2ZNGw3FsfWNRZ2Uj6ICt2sMFrTIaP64K0Bf8FqfmmqUArMDUYHgKJNfiJcyD03gWJ78T9SsKk2Ea0yYtYpojWiR2G4chbF7Ems7BfwKlrwNZIWaBzGFSj4eOY3bFyC3say9ctqTFbAbDCetKoWHX8GNzOvOVCaeJwoHS0F/u8bwnRGCLV9rekd35lU/cHpeTdWfx+TYGul0rUnaNSMm7iJQs3yjS8nqRjOk/jHbw/L8L2/wD</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-04-06T16:26:18.753Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.84 Safari/537.36" etag="Cn5YTIz63VGeTDIPk2c1" version="17.4.0" type="github">
+  <diagram id="z8fUBfOabGOkTEecKIYW" name="Page-1">
+    <mxGraphModel dx="868" dy="520" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="1-H_bIq3a8al5lrHteVI-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="1-H_bIq3a8al5lrHteVI-5" target="_oelreiNcYr4ekF7kroy-1" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="400" y="180" as="targetPoint" />
+            <mxPoint x="400" y="200" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1-H_bIq3a8al5lrHteVI-5" value="Contacto cliente con arrendadora" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="340" y="40" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_oelreiNcYr4ekF7kroy-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="_oelreiNcYr4ekF7kroy-1" target="_oelreiNcYr4ekF7kroy-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_oelreiNcYr4ekF7kroy-1" value="Arrendadora recaba documentación del cliente" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="140" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_oelreiNcYr4ekF7kroy-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="_oelreiNcYr4ekF7kroy-2" target="_oelreiNcYr4ekF7kroy-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_oelreiNcYr4ekF7kroy-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="_oelreiNcYr4ekF7kroy-2" target="_oelreiNcYr4ekF7kroy-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_oelreiNcYr4ekF7kroy-2" value="Documentación se traslada a Summa" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="240" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_oelreiNcYr4ekF7kroy-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="_oelreiNcYr4ekF7kroy-6" target="_oelreiNcYr4ekF7kroy-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_oelreiNcYr4ekF7kroy-6" value="Individual" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="260" y="340" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_oelreiNcYr4ekF7kroy-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="_oelreiNcYr4ekF7kroy-8" target="_oelreiNcYr4ekF7kroy-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_oelreiNcYr4ekF7kroy-8" value="Jurídica" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="420" y="340" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_oelreiNcYr4ekF7kroy-11" value="Riesgos (María O.)" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="440" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
