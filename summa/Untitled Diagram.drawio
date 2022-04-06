@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-04-06T19:33:44.296Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.84 Safari/537.36" etag="cH-jSDbkQtuiES8aFr0g" version="17.4.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-04-06T19:53:49.063Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.84 Safari/537.36" etag="XVipivT1Gcy-fHcV-UjE" version="17.4.0" type="github">
   <diagram id="z8fUBfOabGOkTEecKIYW" name="Leasing">
-    <mxGraphModel dx="1108" dy="520" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#F4F1DE" math="0" shadow="0">
+    <mxGraphModel dx="868" dy="520" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#F4F1DE" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -148,8 +148,136 @@
         <mxCell id="_oelreiNcYr4ekF7kroy-50" value="Firmas y timbres" style="whiteSpace=wrap;html=1;fillColor=#F2CC8F;strokeColor=#E07A5F;fontColor=#393C56;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="340" y="1390" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="_oelreiNcYr4ekF7kroy-56" value="" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#393C56;strokeColor=#E07A5F;fillColor=#F2CC8F;" edge="1" parent="1" source="_oelreiNcYr4ekF7kroy-52" target="_oelreiNcYr4ekF7kroy-55">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_oelreiNcYr4ekF7kroy-58" value="" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#393C56;strokeColor=#E07A5F;fillColor=#F2CC8F;" edge="1" parent="1" source="_oelreiNcYr4ekF7kroy-52" target="_oelreiNcYr4ekF7kroy-57">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="_oelreiNcYr4ekF7kroy-52" value="Ejecutiva graba movimientos" style="whiteSpace=wrap;html=1;fillColor=#F2CC8F;strokeColor=#E07A5F;fontColor=#393C56;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="340" y="1490" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_oelreiNcYr4ekF7kroy-61" value="" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#393C56;strokeColor=#E07A5F;fillColor=#F2CC8F;" edge="1" parent="1" source="_oelreiNcYr4ekF7kroy-55" target="_oelreiNcYr4ekF7kroy-60">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_oelreiNcYr4ekF7kroy-55" value="Desembolso" style="whiteSpace=wrap;html=1;fillColor=#F2CC8F;strokeColor=#E07A5F;fontColor=#393C56;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="260" y="1590" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_oelreiNcYr4ekF7kroy-62" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#393C56;strokeColor=#E07A5F;fillColor=#F2CC8F;" edge="1" parent="1" source="_oelreiNcYr4ekF7kroy-57" target="_oelreiNcYr4ekF7kroy-60">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_oelreiNcYr4ekF7kroy-57" value="Cartera ajena (seguro)" style="whiteSpace=wrap;html=1;fillColor=#F2CC8F;strokeColor=#E07A5F;fontColor=#393C56;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="420" y="1590" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_oelreiNcYr4ekF7kroy-64" value="" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#393C56;strokeColor=#82b366;fillColor=#d5e8d4;" edge="1" parent="1" source="_oelreiNcYr4ekF7kroy-60" target="_oelreiNcYr4ekF7kroy-63">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_oelreiNcYr4ekF7kroy-60" value="1ra. Aprobación:&lt;br&gt;riesgos / legal" style="whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="1690" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_oelreiNcYr4ekF7kroy-66" value="" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#393C56;strokeColor=#E07A5F;fillColor=#F2CC8F;" edge="1" parent="1" source="_oelreiNcYr4ekF7kroy-63" target="_oelreiNcYr4ekF7kroy-65">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_oelreiNcYr4ekF7kroy-63" value="2da. Aprobación:&lt;br&gt;legal y/o Maribel" style="whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="1790" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_oelreiNcYr4ekF7kroy-68" value="" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#393C56;strokeColor=#E07A5F;fillColor=#F2CC8F;" edge="1" parent="1" source="_oelreiNcYr4ekF7kroy-65" target="_oelreiNcYr4ekF7kroy-67">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_oelreiNcYr4ekF7kroy-65" value="Legal realiza la resolución" style="whiteSpace=wrap;html=1;fillColor=#F2CC8F;strokeColor=#E07A5F;fontColor=#393C56;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="1890" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_oelreiNcYr4ekF7kroy-70" value="" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#393C56;strokeColor=#E07A5F;fillColor=#F2CC8F;" edge="1" parent="1" source="_oelreiNcYr4ekF7kroy-67" target="_oelreiNcYr4ekF7kroy-69">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_oelreiNcYr4ekF7kroy-67" value="Ejecutiva imprime resolución" style="whiteSpace=wrap;html=1;fillColor=#F2CC8F;strokeColor=#E07A5F;fontColor=#393C56;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="1990" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_oelreiNcYr4ekF7kroy-74" value="correcciones&lt;br&gt;necesarias" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#393C56;strokeColor=#E07A5F;fillColor=#F2CC8F;" edge="1" parent="1" source="_oelreiNcYr4ekF7kroy-69" target="_oelreiNcYr4ekF7kroy-73">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_oelreiNcYr4ekF7kroy-78" value="aprueba" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#393C56;strokeColor=#E07A5F;fillColor=#F2CC8F;" edge="1" parent="1" source="_oelreiNcYr4ekF7kroy-69" target="_oelreiNcYr4ekF7kroy-77">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_oelreiNcYr4ekF7kroy-69" value="Traslado a cartera / operaciones" style="whiteSpace=wrap;html=1;fillColor=#F2CC8F;strokeColor=#E07A5F;fontColor=#393C56;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="2090" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_oelreiNcYr4ekF7kroy-75" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontColor=#393C56;strokeColor=#E07A5F;fillColor=#F2CC8F;" edge="1" parent="1" source="_oelreiNcYr4ekF7kroy-73" target="_oelreiNcYr4ekF7kroy-67">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_oelreiNcYr4ekF7kroy-73" value="Ejecutiva realiza gestiona cambios" style="whiteSpace=wrap;html=1;fillColor=#F2CC8F;strokeColor=#E07A5F;fontColor=#393C56;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="540" y="1990" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_oelreiNcYr4ekF7kroy-80" value="" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#393C56;strokeColor=#E07A5F;fillColor=#F2CC8F;" edge="1" parent="1" source="_oelreiNcYr4ekF7kroy-77" target="_oelreiNcYr4ekF7kroy-79">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_oelreiNcYr4ekF7kroy-77" value="Traslado de indicaciones a pagos" style="whiteSpace=wrap;html=1;fillColor=#F2CC8F;strokeColor=#E07A5F;fontColor=#393C56;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="2220" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_oelreiNcYr4ekF7kroy-82" value="" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#393C56;strokeColor=#82b366;fillColor=#d5e8d4;" edge="1" parent="1" source="_oelreiNcYr4ekF7kroy-79" target="_oelreiNcYr4ekF7kroy-81">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_oelreiNcYr4ekF7kroy-79" value="1ra. Aprobación:&lt;br&gt;Jorge o Maribel" style="whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="2320" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_oelreiNcYr4ekF7kroy-84" value="" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#393C56;strokeColor=#E07A5F;fillColor=#F2CC8F;" edge="1" parent="1" source="_oelreiNcYr4ekF7kroy-81" target="_oelreiNcYr4ekF7kroy-83">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_oelreiNcYr4ekF7kroy-86" value="" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#393C56;strokeColor=#E07A5F;fillColor=#F2CC8F;" edge="1" parent="1" source="_oelreiNcYr4ekF7kroy-81" target="_oelreiNcYr4ekF7kroy-85">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_oelreiNcYr4ekF7kroy-102" value="" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#393C56;strokeColor=#E07A5F;fillColor=#F2CC8F;" edge="1" parent="1" source="_oelreiNcYr4ekF7kroy-81" target="_oelreiNcYr4ekF7kroy-85">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_oelreiNcYr4ekF7kroy-81" value="2da. Aprobación:&lt;br&gt;María O. o Elder" style="whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="2420" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_oelreiNcYr4ekF7kroy-88" value="" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#393C56;strokeColor=#E07A5F;fillColor=#F2CC8F;" edge="1" parent="1" source="_oelreiNcYr4ekF7kroy-83" target="_oelreiNcYr4ekF7kroy-87">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_oelreiNcYr4ekF7kroy-83" value="ACH a arrendadora" style="whiteSpace=wrap;html=1;fillColor=#F2CC8F;strokeColor=#E07A5F;fontColor=#393C56;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="260" y="2520" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_oelreiNcYr4ekF7kroy-89" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontColor=#393C56;strokeColor=#E07A5F;fillColor=#F2CC8F;" edge="1" parent="1" source="_oelreiNcYr4ekF7kroy-85" target="_oelreiNcYr4ekF7kroy-87">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_oelreiNcYr4ekF7kroy-85" value="Emisión de cheque a favor de arrendadora" style="whiteSpace=wrap;html=1;fillColor=#F2CC8F;strokeColor=#E07A5F;fontColor=#393C56;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="420" y="2520" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_oelreiNcYr4ekF7kroy-91" value="" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#393C56;strokeColor=#E07A5F;fillColor=#F2CC8F;" edge="1" parent="1" source="_oelreiNcYr4ekF7kroy-87" target="_oelreiNcYr4ekF7kroy-90">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_oelreiNcYr4ekF7kroy-87" value="Cobros" style="whiteSpace=wrap;html=1;fillColor=#F2CC8F;strokeColor=#E07A5F;fontColor=#393C56;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="2620" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_oelreiNcYr4ekF7kroy-92" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontColor=#393C56;strokeColor=#E07A5F;fillColor=#F2CC8F;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="_oelreiNcYr4ekF7kroy-90" target="_oelreiNcYr4ekF7kroy-87">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="460" y="2750" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="520" y="2650" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_oelreiNcYr4ekF7kroy-94" value="" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#393C56;strokeColor=#E07A5F;fillColor=#F2CC8F;" edge="1" parent="1" source="_oelreiNcYr4ekF7kroy-90" target="_oelreiNcYr4ekF7kroy-93">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_oelreiNcYr4ekF7kroy-90" value="Correo a cliente CC a arrendadora" style="whiteSpace=wrap;html=1;fillColor=#F2CC8F;strokeColor=#E07A5F;fontColor=#393C56;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="2720" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_oelreiNcYr4ekF7kroy-93" value="Cancelación de opción de compra" style="whiteSpace=wrap;html=1;fillColor=#F2CC8F;strokeColor=#E07A5F;fontColor=#393C56;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="2820" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_oelreiNcYr4ekF7kroy-95" value="" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;rounded=1;sketch=0;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="280" y="2320" width="50" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="_oelreiNcYr4ekF7kroy-101" value="Proceso que se podría realizar en paralelo" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;sketch=0;fontColor=#393C56;" vertex="1" parent="1">
+          <mxGeometry x="160" y="2372.5" width="120" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="_oelreiNcYr4ekF7kroy-103" value="" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;rounded=1;sketch=0;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="280" y="1690" width="50" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="_oelreiNcYr4ekF7kroy-104" value="Proceso que se podría realizar en paralelo" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;sketch=0;fontColor=#393C56;" vertex="1" parent="1">
+          <mxGeometry x="160" y="1742.5" width="120" height="55" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
