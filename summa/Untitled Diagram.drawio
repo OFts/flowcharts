@@ -1,47 +1,101 @@
-<mxfile host="app.diagrams.net" modified="2022-04-06T16:26:18.753Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.84 Safari/537.36" etag="Cn5YTIz63VGeTDIPk2c1" version="17.4.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-04-06T18:06:35.867Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.84 Safari/537.36" etag="Gw4lObjpxYn27xdnxSVd" version="17.4.0" type="github">
   <diagram id="z8fUBfOabGOkTEecKIYW" name="Page-1">
-    <mxGraphModel dx="868" dy="520" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1108" dy="520" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#F4F1DE" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="1-H_bIq3a8al5lrHteVI-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="1-H_bIq3a8al5lrHteVI-5" target="_oelreiNcYr4ekF7kroy-1" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="400" y="180" as="targetPoint" />
-            <mxPoint x="400" y="200" as="sourcePoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="1-H_bIq3a8al5lrHteVI-5" value="Contacto cliente con arrendadora" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="340" y="40" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="_oelreiNcYr4ekF7kroy-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="_oelreiNcYr4ekF7kroy-1" target="_oelreiNcYr4ekF7kroy-2">
+        <mxCell id="_oelreiNcYr4ekF7kroy-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=#F4F1DE;strokeColor=#E07A5F;fontColor=#393C56;" edge="1" parent="1" source="_oelreiNcYr4ekF7kroy-1" target="_oelreiNcYr4ekF7kroy-2">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="_oelreiNcYr4ekF7kroy-1" value="Arrendadora recaba documentación del cliente" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="_oelreiNcYr4ekF7kroy-1" value="Arrendadora recaba documentación del cliente" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#F2CC8F;strokeColor=#E07A5F;fontColor=#393C56;" vertex="1" parent="1">
           <mxGeometry x="340" y="140" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="_oelreiNcYr4ekF7kroy-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="_oelreiNcYr4ekF7kroy-2" target="_oelreiNcYr4ekF7kroy-6">
+        <mxCell id="_oelreiNcYr4ekF7kroy-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=#F4F1DE;strokeColor=#E07A5F;fontColor=#393C56;" edge="1" parent="1" source="_oelreiNcYr4ekF7kroy-2" target="_oelreiNcYr4ekF7kroy-6">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="_oelreiNcYr4ekF7kroy-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="_oelreiNcYr4ekF7kroy-2" target="_oelreiNcYr4ekF7kroy-8">
+        <mxCell id="_oelreiNcYr4ekF7kroy-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=#F4F1DE;strokeColor=#E07A5F;fontColor=#393C56;" edge="1" parent="1" source="_oelreiNcYr4ekF7kroy-2" target="_oelreiNcYr4ekF7kroy-8">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="_oelreiNcYr4ekF7kroy-2" value="Documentación se traslada a Summa" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+        <mxCell id="_oelreiNcYr4ekF7kroy-2" value="Documentación se traslada a Summa" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#F2CC8F;strokeColor=#E07A5F;fontColor=#393C56;" vertex="1" parent="1">
           <mxGeometry x="340" y="240" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="_oelreiNcYr4ekF7kroy-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="_oelreiNcYr4ekF7kroy-6" target="_oelreiNcYr4ekF7kroy-11">
+        <mxCell id="_oelreiNcYr4ekF7kroy-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=#F4F1DE;strokeColor=#E07A5F;fontColor=#393C56;" edge="1" parent="1" source="_oelreiNcYr4ekF7kroy-6" target="_oelreiNcYr4ekF7kroy-11">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="_oelreiNcYr4ekF7kroy-6" value="Individual" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+        <mxCell id="_oelreiNcYr4ekF7kroy-6" value="Persona Individual" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#F2CC8F;strokeColor=#E07A5F;fontColor=#393C56;" vertex="1" parent="1">
           <mxGeometry x="260" y="340" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="_oelreiNcYr4ekF7kroy-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="_oelreiNcYr4ekF7kroy-8" target="_oelreiNcYr4ekF7kroy-11">
+        <mxCell id="_oelreiNcYr4ekF7kroy-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=#F4F1DE;strokeColor=#E07A5F;fontColor=#393C56;" edge="1" parent="1" source="_oelreiNcYr4ekF7kroy-8" target="_oelreiNcYr4ekF7kroy-11">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="_oelreiNcYr4ekF7kroy-8" value="Jurídica" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+        <mxCell id="_oelreiNcYr4ekF7kroy-8" value="Persona Jurídica" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#F2CC8F;strokeColor=#E07A5F;fontColor=#393C56;" vertex="1" parent="1">
           <mxGeometry x="420" y="340" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="_oelreiNcYr4ekF7kroy-11" value="Riesgos (María O.)" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+        <mxCell id="_oelreiNcYr4ekF7kroy-17" value="" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#393C56;strokeColor=#E07A5F;fillColor=#F2CC8F;" edge="1" parent="1" source="_oelreiNcYr4ekF7kroy-11" target="_oelreiNcYr4ekF7kroy-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_oelreiNcYr4ekF7kroy-11" value="Gestión de riesgos" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#F2CC8F;strokeColor=#E07A5F;fontColor=#393C56;" vertex="1" parent="1">
           <mxGeometry x="340" y="440" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_oelreiNcYr4ekF7kroy-19" value="" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#393C56;strokeColor=#E07A5F;fillColor=#F2CC8F;" edge="1" parent="1" source="_oelreiNcYr4ekF7kroy-16" target="_oelreiNcYr4ekF7kroy-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_oelreiNcYr4ekF7kroy-16" value="Análisis AE" style="whiteSpace=wrap;html=1;fillColor=#F2CC8F;strokeColor=#E07A5F;fontColor=#393C56;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="540" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_oelreiNcYr4ekF7kroy-21" value="" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#393C56;strokeColor=#E07A5F;fillColor=#F2CC8F;" edge="1" parent="1" source="_oelreiNcYr4ekF7kroy-18" target="_oelreiNcYr4ekF7kroy-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_oelreiNcYr4ekF7kroy-18" value="Prealco" style="whiteSpace=wrap;html=1;fillColor=#F2CC8F;strokeColor=#E07A5F;fontColor=#393C56;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="640" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_oelreiNcYr4ekF7kroy-23" value="" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#393C56;strokeColor=#E07A5F;fillColor=#F2CC8F;" edge="1" parent="1" source="_oelreiNcYr4ekF7kroy-20" target="_oelreiNcYr4ekF7kroy-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_oelreiNcYr4ekF7kroy-38" value="Denegado" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#393C56;strokeColor=#E07A5F;fillColor=#F2CC8F;" edge="1" parent="1" source="_oelreiNcYr4ekF7kroy-20" target="_oelreiNcYr4ekF7kroy-37">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="510" y="770" />
+              <mxPoint x="510" y="770" />
+            </Array>
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_oelreiNcYr4ekF7kroy-20" value="Alco" style="whiteSpace=wrap;html=1;fillColor=#F2CC8F;strokeColor=#E07A5F;fontColor=#393C56;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="740" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_oelreiNcYr4ekF7kroy-25" value="Aprobado" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#393C56;strokeColor=#E07A5F;fillColor=#F2CC8F;" edge="1" parent="1" source="_oelreiNcYr4ekF7kroy-22" target="_oelreiNcYr4ekF7kroy-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_oelreiNcYr4ekF7kroy-22" value="Documentación y notificación a arrendadora" style="whiteSpace=wrap;html=1;fillColor=#F2CC8F;strokeColor=#E07A5F;fontColor=#393C56;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="840" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_oelreiNcYr4ekF7kroy-35" value="Información completa" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#393C56;strokeColor=#E07A5F;fillColor=#F2CC8F;" edge="1" parent="1" source="_oelreiNcYr4ekF7kroy-24" target="_oelreiNcYr4ekF7kroy-34">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_oelreiNcYr4ekF7kroy-36" value="Información incompleta" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#393C56;strokeColor=#E07A5F;fillColor=#F2CC8F;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="_oelreiNcYr4ekF7kroy-24" target="_oelreiNcYr4ekF7kroy-22">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="270" y="870" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="270" y="990" />
+              <mxPoint x="270" y="870" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_oelreiNcYr4ekF7kroy-24" value="Verificación de documentación" style="whiteSpace=wrap;html=1;fillColor=#F2CC8F;strokeColor=#E07A5F;fontColor=#393C56;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="960" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_oelreiNcYr4ekF7kroy-33" value="" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#393C56;strokeColor=#E07A5F;fillColor=#F2CC8F;" edge="1" parent="1" source="_oelreiNcYr4ekF7kroy-32" target="_oelreiNcYr4ekF7kroy-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_oelreiNcYr4ekF7kroy-32" value="&lt;span&gt;Contacto cliente con arrendadora&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;rounded=0;sketch=0;fontColor=#393C56;strokeColor=#E07A5F;fillColor=#F2CC8F;" vertex="1" parent="1">
+          <mxGeometry x="360" y="20" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="_oelreiNcYr4ekF7kroy-34" value="Envío de documentación para desembolso" style="whiteSpace=wrap;html=1;fillColor=#F2CC8F;strokeColor=#E07A5F;fontColor=#393C56;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="1070" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_oelreiNcYr4ekF7kroy-37" value="Ejecutiva lo comunica a la arrendadora" style="whiteSpace=wrap;html=1;fillColor=#F2CC8F;strokeColor=#E07A5F;fontColor=#393C56;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="570" y="740" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
