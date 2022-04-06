@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-04-06T19:53:49.063Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.84 Safari/537.36" etag="XVipivT1Gcy-fHcV-UjE" version="17.4.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-04-06T19:57:08.011Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.84 Safari/537.36" etag="SVmFCqNACAQWBFTY-5cQ" version="17.4.0" type="github">
   <diagram id="z8fUBfOabGOkTEecKIYW" name="Leasing">
-    <mxGraphModel dx="868" dy="520" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#F4F1DE" math="0" shadow="0">
+    <mxGraphModel dx="1240" dy="743" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#F4F1DE" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -117,15 +117,23 @@
         <mxCell id="_oelreiNcYr4ekF7kroy-39" value="Elaboración de carta por parte del cliente" style="whiteSpace=wrap;html=1;fillColor=#F2CC8F;strokeColor=#E07A5F;fontColor=#393C56;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="650" y="960" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="_oelreiNcYr4ekF7kroy-54" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontColor=#393C56;strokeColor=#E07A5F;fillColor=#F2CC8F;" edge="1" parent="1" source="_oelreiNcYr4ekF7kroy-41" target="_oelreiNcYr4ekF7kroy-52">
+        <mxCell id="_oelreiNcYr4ekF7kroy-54" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontColor=#393C56;strokeColor=#E07A5F;fillColor=#F2CC8F;" edge="1" parent="1" source="_oelreiNcYr4ekF7kroy-41" target="_oelreiNcYr4ekF7kroy-52">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="600" y="1520" />
+              <mxPoint x="210" y="1520" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="_oelreiNcYr4ekF7kroy-41" value="Tabla de valor presente, póliza y contrato de arrendamiento" style="whiteSpace=wrap;html=1;fillColor=#F2CC8F;strokeColor=#E07A5F;fontColor=#393C56;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="540" y="1090" width="120" height="60" as="geometry" />
+          <mxGeometry x="150" y="1090" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_oelreiNcYr4ekF7kroy-107" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontColor=#393C56;strokeColor=#E07A5F;fillColor=#F2CC8F;" edge="1" parent="1" source="_oelreiNcYr4ekF7kroy-43" target="_oelreiNcYr4ekF7kroy-46">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="860" y="1170" />
+              <mxPoint x="400" y="1170" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="_oelreiNcYr4ekF7kroy-43" value="Grabar RUR" style="rounded=1;whiteSpace=wrap;html=1;sketch=0;fontColor=#393C56;strokeColor=#E07A5F;fillColor=#F2CC8F;" vertex="1" parent="1">
           <mxGeometry x="800" y="960" width="120" height="60" as="geometry" />
@@ -264,6 +272,9 @@
         <mxCell id="_oelreiNcYr4ekF7kroy-90" value="Correo a cliente CC a arrendadora" style="whiteSpace=wrap;html=1;fillColor=#F2CC8F;strokeColor=#E07A5F;fontColor=#393C56;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="340" y="2720" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="_oelreiNcYr4ekF7kroy-106" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;fontColor=#393C56;strokeColor=#E07A5F;fillColor=#F2CC8F;" edge="1" parent="1" source="_oelreiNcYr4ekF7kroy-93" target="_oelreiNcYr4ekF7kroy-105">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="_oelreiNcYr4ekF7kroy-93" value="Cancelación de opción de compra" style="whiteSpace=wrap;html=1;fillColor=#F2CC8F;strokeColor=#E07A5F;fontColor=#393C56;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="340" y="2820" width="120" height="60" as="geometry" />
         </mxCell>
@@ -278,6 +289,9 @@
         </mxCell>
         <mxCell id="_oelreiNcYr4ekF7kroy-104" value="Proceso que se podría realizar en paralelo" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;sketch=0;fontColor=#393C56;" vertex="1" parent="1">
           <mxGeometry x="160" y="1742.5" width="120" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="_oelreiNcYr4ekF7kroy-105" value="Finalización de la operación" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;rounded=1;sketch=0;fontColor=#393C56;fillColor=#F2CC8F;strokeColor=#E07A5F;" vertex="1" parent="1">
+          <mxGeometry x="350" y="2910" width="100" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
